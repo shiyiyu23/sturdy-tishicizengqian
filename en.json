@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Prompt Forge",
+    "description": "On by default: replies must not invent facts, must say where claims came from, and check themselves before delivering. A star left of the input box turns your draft into a clearer prompt — cancellable mid-run, one click restores your words. A number beside it shows roughly what this chat costs; click for the breakdown. It learns from its mistakes, switching only when a new approach beats the old on a fixed test."
+  }
+}

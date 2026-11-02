@@ -1,0 +1,9 @@
+# Prompt Forge — a Host plugin that adds a self-evolving prompt-strengthening loop.
+#
+# Everything tunable lives in this row's `config`, so an upgrade of the plugin
+# never overwrites your settings. Empty config means "use the documented
+# defaults and follow whatever default model this profile already selected".
+- insert:
+    - id: prompt-forge
+      name: dsh-prompt-forge
+      config: {}
